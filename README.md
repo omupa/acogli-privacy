@@ -1,6 +1,6 @@
 ![Cabeçalho](./assets/acogli-1920-1080.png "Cabeçalho")
 
-# <p style="text-align:center"> Termo de privacidade </p>
+# Termo de privacidade
 
 ## Como os dados são coletados
 O aplicativo Acogli não compartilha os dados coletados, nem os envia para serem armazenados em um servidor. Sendo assim, os dados estão salvos apenas em seu dispositivo em local seguro e nem mesmo os desenvolvedores conseguem acessá-los. Vale ressaltar que o acesso a internet do próprio aplicativo é bloqueado por padrão para sua segurança e privacidade.
